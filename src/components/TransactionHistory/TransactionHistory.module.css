@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+
+
+.table {
+    width: 600px;
+}
+
+.tableHeadElement {
+    height: 60px;
+    font-family: "Lato";
+    font-size: 16px;
+    background-color: #00bcd4;
+    color: #fff;
+    border: 1px solid #e0e6e7;
+    text-transform: uppercase;
+}

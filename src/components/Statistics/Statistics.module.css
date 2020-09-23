@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+
+.statistics {
+  position: relative;
+  width: 300px;
+}
+
+.title {
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  background-color: #fff;
+  width: 100%;
+}
+
+.statList {
+  padding: 0;
+  display: flex;
+  margin: 0 auto;
+  width: 300px;
+  list-style: none;
+  justify-content: space-between;
+}
+
+.statItem {
+  text-align: center;
+  border: 1px solid #000;
+}
+
+.label {
+  display: block;
+  font-family: "Lato", sans-serif;
+}
+
+.percentage {
+  display: block;
+  font-family: "Lato", sans-serif;
+}
